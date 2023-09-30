@@ -5,7 +5,11 @@ Test your memory and skill by repeating a sequence of colors and sounds.
 The rule of the game are simple:
 
 1.Press "Start" to initiate the game.
+
 2.Simon will show a sequence with colored lights and sounds.
+
 3.Your task is to repeat the sequence shown by pressing the buttons in the same order they were shown.
+
 4.As you succeed, the sequence will get longer and faster.
+
 5.If you press a button out of sequence, the game will end, and you'll hear an error sound. Your score will be displayed
