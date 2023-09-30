@@ -13,4 +13,4 @@ The rule of the game are simple:
 
 4.As you succeed, the sequence will get longer and faster.
 
-5.If you press a button out of sequence, the game will end, and you'll hear an error sound. Your score will be displayed
+5.If you press a button out of sequence, the game will end, and you'll hear an error sound. Your score will be displayed.
